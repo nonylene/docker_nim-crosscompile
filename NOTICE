@@ -24,3 +24,15 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 [ MIT license: http://www.opensource.org/licenses/mit-license.php ]
+
+=====================================================
+Debian Docker image https://hub.docker.com/_/debian
+
+View license information [1] for the software contained in this image.
+
+As with all Docker images, these likely also contain other software which may be under other licenses (such as Bash, etc from the base distribution, along with any direct or indirect dependencies of the primary software being contained).
+
+Some additional license information which was able to be auto-detected might be found in the repo-info repository's debian/ directory [2].
+
+[1]: https://www.debian.org/social_contract#guidelines
+[2]: https://github.com/docker-library/repo-info/tree/master/repos/debian
